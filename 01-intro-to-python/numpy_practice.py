@@ -1,4 +1,4 @@
-"""Intro to Python (DataCamp) - NumPy practice.
+"""Intro to Python - NumPy practice.
 
 Covers: arrays vs lists, element-wise math, one-type rule, subsetting,
 2D arrays, basic statistics, and generating random data.
