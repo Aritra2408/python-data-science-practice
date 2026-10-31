@@ -1,4 +1,4 @@
-"""Intro to Python (DataCamp) - Matplotlib practice.
+"""Intro to Python - Matplotlib practice.
 
 Covers: line plot, scatter plot, histogram, and customization
 (labels, title, ticks, adding more data).
