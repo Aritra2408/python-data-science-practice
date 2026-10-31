@@ -1,4 +1,4 @@
-"""Intro to Python (DataCamp) - Dictionaries and Pandas practice.
+"""Intro to Python - Dictionaries and Pandas practice.
 
 Covers: dictionaries vs lists, immutable keys, DataFrames from a
 dictionary, and selecting with [], loc and iloc.
