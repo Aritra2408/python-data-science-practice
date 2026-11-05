@@ -5,3 +5,4 @@ My practice code while working through the DataCamp Associate Data Scientist in 
 | Folder | Course | Topics |
 |---|---|---|
 | `01-intro-to-python/` | Intro to Python | NumPy, Matplotlib, Dictionaries and Pandas |
+| `02-intermediate-python/` | Intermediate Python | Logic, Control Flow and Filtering |
